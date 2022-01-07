@@ -1,1 +1,1 @@
-# Coursera-repository-class
+# Coursera-class
